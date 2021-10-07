@@ -4,6 +4,6 @@ Projet d'étude de l'entreprise Axido
 
 Groupe : 
 Aurélien GUILLOU (référent)
-Alexi SELY
+Alexis SELY
 Thomas GIRAUD
 Antoine LACHAT
