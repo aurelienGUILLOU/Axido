@@ -1,0 +1,80 @@
+body{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-size: 100%;
+}
+
+#speciale{
+    background-color: orange;
+    margin-right: 500px;
+    padding-left: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.nom {
+    text-align: center;
+}
+
+.sujet {
+    text-align: center;
+}
+
+.menu{
+    background-color: orange;
+    border: 0cm;
+    color: white;
+    font-size: 18px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.bouton{
+    width: 150px;
+    height: 25px;
+    background-color: rgb(79, 86, 87);
+    text-align: center;
+    margin-right:20px;
+    border-radius: 5px;
+    display: block;
+    float: right;
+}
+
+.prez {
+    background-color: orange;
+    width: 800px;
+    height: 300px;
+}
+
+.resume {
+    background-color: orange;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+}
+
+.signature {
+    background-color: white;
+    border: solid orange;
+    border-radius: 5px;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.image {
+    margin-left: 50px;
+}
+
+.prof {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+.bas {
+    margin-top: 170px;
+}
