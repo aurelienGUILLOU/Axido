@@ -44,7 +44,9 @@ a{
 .prez {
     background-color: orange;
     width: 800px;
-    height: 300px;
+    height: 200px;
+    padding-top: 50px;
+    margin-top: 25px
 }
 
 .resume {
@@ -57,11 +59,14 @@ a{
 .signature {
     background-color: white;
     border: solid orange;
+    align-items: center;
     border-radius: 5px;
     width: 600px;
-    height: 400px;
+    height: 500px;
     margin: auto;
     margin-bottom: 40px;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
 
 .image {
@@ -77,4 +82,13 @@ a{
 
 .bas {
     margin-top: 170px;
+}
+
+#dehors {
+    margin: auto;
+}
+
+.contenu {
+    text-align: center;
+    align-items: center;
 }
