@@ -46,7 +46,8 @@ a{
     width: 800px;
     height: 200px;
     padding-top: 50px;
-    margin-top: 25px
+    margin-top: 25px;
+    border-radius: 5px;
 }
 
 .resume {
