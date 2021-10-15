@@ -54,6 +54,7 @@ a{
     margin: auto;
     width: 400px;
     height: 200px;
+    border-radius: 5px;
 }
 
 .signature {
@@ -67,6 +68,7 @@ a{
     margin-bottom: 40px;
     padding-left: 20px;
     padding-bottom: 20px;
+    border-radius: 5px;
 }
 
 .image {
