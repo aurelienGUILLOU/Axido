@@ -2,7 +2,8 @@
 Projet d'étude de l'entreprise Axido
 
 # Livrable parties Économie et Documents numérique
-[écran prototype](doc/GUILLOU_SAE106_S1B1_Axido.pdf)
+[Rapport
+](doc/GUILLOU_SAE106_S1B1_Axido.pdf)
 
 Groupe : 
 Aurélien GUILLOU ( référent )
