@@ -152,3 +152,17 @@ a{
 legend {
     font-size: 10px;
 }
+.texte {
+    background-color: orange;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-image: url("ye.jpg");
+    background-size: 100% 100%;
+}
+.bilan { 
+    margin: auto;   
+}
