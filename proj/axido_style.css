@@ -108,6 +108,8 @@ a{
     width: 1000px;
     height: 350px;
     padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     text-align: justify;
     border-radius: 5px;
 }
@@ -117,9 +119,12 @@ a{
     margin: auto;
     margin-top: 50px;
     padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     width: 1000px;
     text-align: justify;
     border-radius: 5px;
+    line-height: 32px;
 }
 
 .orga {
