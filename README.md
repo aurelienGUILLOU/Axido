@@ -11,7 +11,7 @@ Alexis SELY
 Thomas GIRAUD
 Antoine LACHAT
 
-![GUILLOU_Aurélien](mailto:aurelien.guillou@edu.univ-fcomte.fr?subject=[SAE 1.06]) 
+[GUILLOU_Aurélien](mailto:aurelien.guillou@edu.univ-fcomte.fr?subject=[SAE1.06]) 
 
 Notre projet de SAE 1.06 consiste en l'étude d'une entreprise française d'au moins 15 personnes d'un point de vue organisationnel et économique. Nous avons donc choisis d'étudier l'entreprise Axido, qui nous semblait intéressant.
 
