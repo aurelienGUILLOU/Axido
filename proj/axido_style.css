@@ -325,7 +325,10 @@ ul.tl li .timestamp{
     .bouton{min-width: 100px;
         margin-top: 10px;}
     #dehors img{width: 300px;}
-    .prof{margin:100px}
+    .prof{margin:100px;
+        display: block;
+        align-items: center;
+    }}
     .header{display: flex;
         align-items: baseline;
         width: 96%;
