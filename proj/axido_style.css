@@ -342,5 +342,6 @@ ul.tl li .timestamp{
         width: 400px;
         margin: auto;
         text-align: center;
+        overflow: scroll;
     }
 }
