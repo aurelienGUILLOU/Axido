@@ -47,6 +47,11 @@ a{
     display: block;
 
 }
+.chiffre {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 
 .prez {
     background-color: orange;
@@ -363,4 +368,5 @@ ul.tl li .timestamp{
         width: 400px;
         height: 700px;
     }
+    .chiffre{margin:10px}
 }
