@@ -354,4 +354,8 @@ ul.tl li .timestamp{
     .prez {
         overflow: scroll;
     }
+    .prof {
+        display: flex;
+        flex-wrap: non-wrap;
+    }
 }
