@@ -353,20 +353,16 @@ ul.tl li .timestamp{
         margin-right: 50px;
         margin-left: 50px;
     }
-    .img {
-        margin: auto;
-    }
     .prez {
         overflow: scroll;
         width: 400px;
     }
-    .img {
-        margin: auto;
-    }
-    .prof{
-        margin:10px;
+    .prof {
         display: block;
         align-items: center;
+    }
+    .img {
+        margin: auto;
     }
     .signature {
         width: 400px;
