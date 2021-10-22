@@ -334,5 +334,8 @@ ul.tl li .timestamp{
     .modif {
         width: 50%;
     }
+    .metier {
+        width: 25%;
+    }
     
 }
