@@ -351,4 +351,7 @@ ul.tl li .timestamp{
         margin: auto;
     }
     .history-tl-container{margin:0px}
+    .prez {
+        overflow: scroll;
+    }
 }
