@@ -341,6 +341,5 @@ ul.tl li .timestamp{
     .metier {
         width: 400px;
         text-align: center;
-        overflow: scroll;
     }
 }
