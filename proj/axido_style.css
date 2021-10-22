@@ -331,8 +331,8 @@ ul.tl li .timestamp{
     .header h1{position:sticky}
     .menu{display: block;
         margin-left: 0px;}
-    .contenu {display: flex; width: 80%; text-align: center;}
-    .modif {display: flex; width: 80%; text-align: center;}
+    .contenu {display: flex; flex-wrap: wrap; width: 80%; text-align: center;}
+    .modif {display: flex; flex-wrap: wrap; width: 80%; text-align: center;}
     .orga {display: flex; width: 80%;}
     
 }
