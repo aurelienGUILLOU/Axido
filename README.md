@@ -21,13 +21,18 @@ ecran de zoning :
 ![écran de zoning](doc/ecran_zoning.png)
 
 Nous avons designé notre écran de zoning de cette manière car nous avons decidé pour notre site web d'adopté une esthétique similaire a celle du site web de l'entreprise Axido.
-
+L'ecran de zoning a été réalisé par aurélien GUILLOU.
 
 ecran de prototypage : 
 
 ![écran prototype](doc/ecran_prototype.png)
 
 Nous avons choisie ces couleurs car ce sont celle utilisé sur le site de l'entreprise axido, et nous avons pensé que cela serait un choix pertinent d'utiliser les mêmes couleurs.
+L'ecran prototype a été réalisé par aurélien GUILLOU et alexis SELY.
+
+La recherche des différentes informations concernant l'entreprise a été réalisé par l'ensemble du groupe.
+Le rapport a été rédigé par l'nsemble du groupe, chacun ayant écrit au moins une page du rapport : thomas GIRAUD a écrit la présentation général et le résumé de l'entreprise, alexis SELY a écrit l'historique de l'entreprise, antoine LACHAT a écrit la production de l'entreprise, aurélien GUILLOU à écrit l'organisation de l'entreprise et les chiffres de l'entreprise. 
+La mise en page du rapport a été réalisé par aurélien GUILLOU et antoine LACHAT.
 
 ![accueil validator](doc2/accueil_validator.PNG)
 
