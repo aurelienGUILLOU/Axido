@@ -333,26 +333,14 @@ ul.tl li .timestamp{
         margin-left: 0px;
     }
     .modif {
-        display: block;
         width: 400px;
         margin: auto;
+        padding: auto;
         text-align: center;
-        height: 100%;
     }
     .metier {
         width: 400px;
         margin: auto;
         text-align: center;
-    }
-    
-    .orga {
-        margin-left: 50px;
-        margin: auto;
-    }
-    .prez {
-        margin: auto;
-    }
-    .image {
-        margin: auto;
     }
 }
