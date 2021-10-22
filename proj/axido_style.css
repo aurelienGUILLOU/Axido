@@ -334,14 +334,13 @@ ul.tl li .timestamp{
     }
     .modif {
         width: 400px;
-        margin: auto;
+        margin-bottom: 300px;
         padding: auto;
         text-align: center;
+        overflow: scroll;
     }
     .metier {
         width: 400px;
-        margin: auto;
         text-align: center;
-        overflow: scroll;
     }
 }
