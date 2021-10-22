@@ -360,9 +360,6 @@ ul.tl li .timestamp{
         display: block;
         align-items: center;
     }
-    .img {
-        margin: auto;
-    }
     .signature {
         width: 400px;
         height: 700px;
