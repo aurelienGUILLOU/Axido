@@ -360,7 +360,11 @@ ul.tl li .timestamp{
         overflow: scroll;
         width: 400px;
     }
-    .prof{margin:10px;
+    .img {
+        margin: auto;
+    }
+    .prof{
+        margin:10px;
         display: block;
         align-items: center;
     }
