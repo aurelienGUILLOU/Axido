@@ -31,7 +31,7 @@ Nous avons choisie ces couleurs car ce sont celle utilisé sur le site de l'entr
 L'ecran prototype a été réalisé par aurélien GUILLOU et alexis SELY.
 
 La recherche des différentes informations concernant l'entreprise a été réalisé par l'ensemble du groupe.
-Le rapport a été rédigé par l'nsemble du groupe, chacun ayant écrit au moins une page du rapport : thomas GIRAUD a écrit la présentation général et le résumé de l'entreprise, alexis SELY a écrit l'historique de l'entreprise, antoine LACHAT a écrit la production de l'entreprise, aurélien GUILLOU à écrit l'organisation de l'entreprise et les chiffres de l'entreprise. 
+Le rapport a été rédigé par l'ensemble du groupe, chacun ayant écrit au moins une page du rapport : thomas GIRAUD a écrit la présentation général et le résumé de l'entreprise, alexis SELY a écrit l'historique de l'entreprise, antoine LACHAT a écrit la production de l'entreprise, aurélien GUILLOU à écrit l'organisation de l'entreprise et les chiffres de l'entreprise. 
 La mise en page du rapport a été réalisé par aurélien GUILLOU et antoine LACHAT.
 
 ![accueil validator](doc2/accueil_validator.PNG)
