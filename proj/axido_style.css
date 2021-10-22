@@ -356,10 +356,6 @@ ul.tl li .timestamp{
         overflow: scroll;
         width: 400px;
     }
-    .prof {
-        display: block;
-        align-items: center;
-    }
     .signature {
         width: 400px;
         height: 700px;
