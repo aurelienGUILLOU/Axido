@@ -39,4 +39,4 @@ Nous avons choisie ces couleurs car ce sont celle utilisé sur le site de l'entr
 
 ![histoire validator](doc2/histoire_validator.png)
 
-Ces différentes images correspondent aux différentes pages du site web passé au validator.
+Ces différentes images correspondent aux différentes pages du site web passé au validator. 
