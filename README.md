@@ -31,22 +31,22 @@ Nous avons choisie ces couleurs car ce sont celle utilisé sur le site de l'entr
 
 ![accueil validator](doc2/accueil_validator.PNG)
 
-Cette page a été codé par l'ensemble des membres du groupe.
+La page d'accueil a été codé par l'ensemble des membres du groupe.
 
 ![economie validator](doc2/economie_validator.PNG)
 
-Cette page a été codé par thomas GIRAUD.
+La page concernant les chiffres de l'entreprise a été codé par thomas GIRAUD.
 
 ![production validator](doc2/production_validator.PNG)
 
-Cette page a été codé par antoine LACHAT
+La page concernant la production de l'entreprise a été codé par antoine LACHAT
 
 ![organisation validator](doc2/organisation_validator.PNG)
 
-Cette page a été codé par aurélien GUILLOU
+La page concernant l'organisation de l'entreprise a été codé par aurélien GUILLOU
 
 ![histoire validator](doc2/histoire_validator.PNG)
 
-Cette page a été codé par alexis SELY
+La page concernant l'histoire de l'entreprise a été codé par alexis SELY
 
 Ces différentes images correspondent aux différentes pages du site web passé au validator. 
