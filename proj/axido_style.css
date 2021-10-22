@@ -331,5 +331,8 @@ ul.tl li .timestamp{
     .header h1{position:sticky}
     .menu{display: block;
         margin-left: 0px;}
+    .contenu {display: block;}
+    .modif {display: block;}
+    .orga {display: block;}
     
 }
