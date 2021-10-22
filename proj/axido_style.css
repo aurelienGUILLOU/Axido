@@ -332,8 +332,8 @@ ul.tl li .timestamp{
     .menu{display: block;
         margin-left: 0px;}
     .modif {
+        display: block;
         width: 400px;
-        height: 800px;
         margin: auto;
         text-align: center;
     }
@@ -344,6 +344,7 @@ ul.tl li .timestamp{
     }
     
     .orga {
+        margin-left: 50px;
         margin: auto;
-    
+    }
 }
