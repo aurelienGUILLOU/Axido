@@ -334,7 +334,6 @@ ul.tl li .timestamp{
     }
     .modif {
         width: 400px;
-        margin-bottom: 300px;
         padding: auto;
         text-align: center;
         overflow: hidden;
@@ -342,9 +341,13 @@ ul.tl li .timestamp{
     .metier {
         width: 400px;
         text-align: center;
-        overflow: hidden;
+        overflow: scroll;
     }
     .orga {
-        overflow: hidden;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    .img {
+        margin: auto;
     }
 }
