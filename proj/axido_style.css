@@ -66,7 +66,7 @@ a{
     width: 1200px;
     height: 100px;
     padding-top: 20px;
-    padding-bottom:auto;
+    padding-bottom:30px;
     padding-right: 20px;
     padding-left: 20px;
     border-radius: 5px;
@@ -79,7 +79,8 @@ a{
     width: 400px;
     height: 200px;
     border-radius: 5px;
-    padding: 10px;
+    padding-bottom: 50px;
+    padding-top:10px;
 }
 
 .signature {
@@ -108,7 +109,7 @@ a{
     margin-bottom: 60px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
     padding-top:20px;
 }
 
@@ -135,7 +136,7 @@ a{
     height: 120px;
     border-radius: 5px;
     margin: auto;
-    padding-bottom:0px;
+    padding-bottom:30px;
     padding-top:20px;
     padding-right: 20px;
     padding-left: 20px;
@@ -189,6 +190,7 @@ a{
 .contenu {
     text-align: center;
     align-items: center;
+    display: block;
 }
 
 .metier {
@@ -353,20 +355,5 @@ ul.tl li .timestamp{
     .prez {
         overflow: scroll;
         width: 400px;
-    }
-    .prof {
-        display: block;
-        align-items: center;
-    }
-    .img {
-        margin: auto;
-    }
-    .signature {
-        width: 400px;
-        height: 700px;
-    }
-    .history-tl-container{margin:0px}
-    .prez {
-        overflow: scroll;
     }
 }
