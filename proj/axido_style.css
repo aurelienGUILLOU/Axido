@@ -325,8 +325,9 @@ ul.tl li .timestamp{
     .bouton{min-width: 100px;
         margin-top: 10px;}
     #dehors img{width: 300px;}
-    .prof{margin:100px;
-        display: block;
+    .prof{margin:10px;
+        display: flex;
+        flex-wrap: nonwrap;
         align-items: center;
     }}
     .header{display: flex;
