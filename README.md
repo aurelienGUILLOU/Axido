@@ -28,3 +28,11 @@ ecran de prototypage :
 ![écran prototype](doc/ecran_prototype.png)
 
 Nous avons choisie ces couleurs car ce sont celle utilisé sur le site de l'entreprise axido, et nous avons pensé que cela serait un choix pertinent d'utiliser les mêmes couleurs.
+
+![accueil validator](doc/accueil_validator.png)
+![economie validator](doc/economie_validator.png)
+![production validator](doc/production_validator.png)
+![organisation validator](doc/organisation_validator.png)
+![histoire validator](doc/histoire_validator.png)
+
+Ces différentes images correspondent aux différentes pages du site web passé au validator.
