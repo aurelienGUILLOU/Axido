@@ -337,10 +337,10 @@ ul.tl li .timestamp{
         margin-bottom: 300px;
         padding: auto;
         text-align: center;
-        overflow: scroll;
     }
     .metier {
         width: 400px;
         text-align: center;
+        overflow: scroll;
     }
 }
