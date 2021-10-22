@@ -350,12 +350,23 @@ ul.tl li .timestamp{
     .img {
         margin: auto;
     }
+    .prez {
+        overflow: scroll;
+        width: 400px;
+    }
+    .prof {
+        display: block;
+        align-items: center;
+    }
+    .img {
+        margin: auto;
+    }
+    .signature {
+        width: 400px;
+        height: 700px;
+    }
     .history-tl-container{margin:0px}
     .prez {
         overflow: scroll;
-    }
-    .prof {
-        display: flex;
-        flex-wrap: non-wrap;
     }
 }
