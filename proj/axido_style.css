@@ -333,10 +333,11 @@ ul.tl li .timestamp{
         margin-left: 0px;}
     .modif {
         width: 400px;
-        height: 1000px;
+        margin: auto;
     }
     .metier {
         width: 400px;
+        margin: auto;
     }
     
 }
