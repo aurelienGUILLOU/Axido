@@ -3,7 +3,14 @@ body{
     background-size: 100%;
     background-color: rgb(255, 250, 245);
 }
-
+.header{background: orange;
+    padding: 10px; 
+    display: flex;
+    color: white;
+    align-items: center;
+    position: fixed;
+    width: 97.5%;
+}
 #speciale{
     background-color: orange;
     margin-right: 500px;
@@ -17,19 +24,18 @@ a{
 
 .nom {
     text-align: center;
+    padding-top:100px;
 }
 
 .sujet {
     text-align: center;
 }
-
-.menu{
-    background-color: orange;
-    border: 0cm;
+.menu{      
     color: white;
     font-size: 18px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding: 20px;
+    display: flex;
+    margin-left: 400px;
 }
 .bouton{
     width: 150px;
@@ -39,7 +45,7 @@ a{
     margin-right:20px;
     border-radius: 5px;
     display: block;
-    float: right;
+
 }
 
 .prez {
@@ -51,6 +57,18 @@ a{
     padding-left: 10px;
     margin-top: 25px;
     margin-left: 50px;
+    border-radius: 5px;
+}
+.prez1 {
+    background-color: orange;
+    align-items: center;
+    margin: auto;
+    width: 1200px;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom:auto;
+    padding-right: 20px;
+    padding-left: 20px;
     border-radius: 5px;
 }
 
@@ -78,7 +96,70 @@ a{
     border-radius: 5px;
 }
 
+.signature1 {
+    background-color: orange;
+    align-items: right;
+    border-radius: 5px;
+    width: 300px;
+    height: 180px;
+    margin-left: 360px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top:20px;
+}
+
+.hel1 {
+    background-color: orange;
+    align-items: left;
+    border-radius: 5px;
+    width: 300px;
+    height: 180px;
+    margin-left: 360px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top:20px;
+}
+
+.jay {
+    background-color: orange;
+    align-items: center;
+    width: 1000px;
+    height: 120px;
+    border-radius: 5px;
+    margin: auto;
+    padding-bottom:0px;
+    padding-top:20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 300px;
+}
+
 .image {
+    margin-left: 100px;
+}
+
+.image1 {
+    margin-top: 60px;
+}
+
+.bas {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.pres {
+    display: flex;
+    flex-wrap: wrap;
+    vertical-align: center;
+}
+
+.dist {
     margin-left: 100px;
 }
 
@@ -86,6 +167,12 @@ a{
     display: flex;
     margin-top: 100px;
     margin-bottom: 100px;
+}
+
+.prof1 {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 60px;
     margin-left: 50px;
 }
 
@@ -108,8 +195,6 @@ a{
     width: 1000px;
     height: 350px;
     padding: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
     text-align: justify;
     border-radius: 5px;
 }
@@ -119,12 +204,9 @@ a{
     margin: auto;
     margin-top: 50px;
     padding: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
     width: 1000px;
     text-align: justify;
     border-radius: 5px;
-    line-height: 32px;
 }
 
 .orga {
@@ -163,12 +245,12 @@ legend {
     width: 400px;
     height: 200px;
     border-radius: 5px;
-    padding: 10px;
     text-align: center;
-    background-image: url("ye.jpg");
-    background-size: 100% 100%;
-}
+    padding-bottom: 30px;
 
+}
+#bilan{margin: auto;}
+.header h1{position: fixed;}
 .chrono{
     line-height:1.3em;
     min-width:920px;
@@ -235,85 +317,17 @@ ul.tl li .timestamp{
     text-align: right;
     font-size: 12px;
 }
-
-.resume1 {
-    background-color: orange;
-    margin: auto;
-    width: 400px;
-    height: 180px;
-    border-radius: 5px;
-    padding: 20px;
-}
-
-.prez1 {
-    background-color: orange;
-    align-items: center;
-    margin: auto;
-    width: 1200px;
-    height: 100px;
-    padding-top: 20px;
-    padding-bottom:auto;
-    padding-right: 20px;
-    padding-left: 20px;
-    border-radius: 5px;
-}
-
-.prof1 {
-    display: flex;
-    margin-top: 100px;
-    margin-bottom: 60px;
-    margin-left: 50px;
-}
-
-.signature1 {
-    background-color: orange;
-    align-items: right;
-    border-radius: 5px;
-    width: 300px;
-    height: 180px;
-    margin-left: 160px;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-top:20px;
-}
-
-.hel1 {
-    background-color: orange;
-    align-items: left;
-    border-radius: 5px;
-    width: 300px;
-    height: 180px;
-    margin-left: 160px;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-top:20px;
-}
-
-.jay {
-    background-color: orange;
-    align-items: center;
-    width: 1000px;
-    height: 120px;
-    border-radius: 5px;
-    margin: auto;
-    padding-bottom:0px;
-    padding-top:20px;
-    padding-right: 20px;
-    padding-left: 20px;
-    margin-bottom: 300px;
-}
-
-.image1 {
-    margin-top: 60px;
-}
-
-.bas {
-    margin-right: 30px;
-    margin-left: 30px;
+@media screen and (max-width: 600px){
+    .bouton{min-width: 100px;
+        margin-top: 10px;}
+    #dehors img{width: 300px;}
+    .prof{margin:10px}
+    .header{display: flex;
+        align-items: baseline;
+        width: 96%;
+    position:sticky}
+    .header h1{position:sticky}
+    .menu{display: block;
+        margin-left: 0px;}
+    
 }
