@@ -332,12 +332,12 @@ ul.tl li .timestamp{
     .menu{display: block;
         margin-left: 0px;}
     .modif {
-        width: 50%;
+        width: 400px;
         text-align: center;
         margin: auto;
     }
     .metier {
-        width: 50%;
+        width: 400px;
         text-align: center;
         margin: auto;
     }
