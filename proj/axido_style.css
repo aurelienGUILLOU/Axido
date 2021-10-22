@@ -330,12 +330,14 @@ ul.tl li .timestamp{
     position:sticky}
     .header h1{position:sticky}
     .menu{display: block;
-        margin-left: 0px;}
+        margin-left: 0px;
+    }
     .modif {
         display: block;
         width: 400px;
         margin: auto;
         text-align: center;
+        height: 100%;
     }
     .metier {
         width: 400px;
