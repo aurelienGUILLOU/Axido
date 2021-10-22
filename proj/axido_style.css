@@ -337,9 +337,14 @@ ul.tl li .timestamp{
         margin-bottom: 300px;
         padding: auto;
         text-align: center;
+        overflow: hidden;
     }
     .metier {
         width: 400px;
         text-align: center;
+        overflow: hidden;
+    }
+    .orga {
+        overflow: hidden;
     }
 }
